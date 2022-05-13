@@ -1,0 +1,38 @@
+div{
+    border: 1px solid black;
+}
+.main{
+    display:  flex;
+    flex-direction: column;
+}
+.top{
+    display: flex;
+    background-color: darkgray;
+}
+.top>div{
+    background-color: gray;
+    padding: 5px;
+    margin: 10px;
+    font-size: 15;
+    
+}
+.contentPane{
+    display: flex;
+}
+.contentPane2{
+    display: flex;
+    flex-direction: column;
+    
+}
+.contentPane2>div{
+    background-color: darkgray;
+    margin: 10px;
+    padding: 12px;
+    font-size: 20px;
+    width: 100px;
+    
+}
+.contentPane3{
+    height: 20px;
+    width: 60px;
+}
