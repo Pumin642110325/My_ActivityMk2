@@ -1,6 +1,4 @@
-div{
-   
-}
+
 .main{
 border: 1px solid black;
     display:  flex;
@@ -38,5 +36,5 @@ border: 1px solid black;
 .contentPane3{
     border: 1px solid black;
     flex-grow: 1;
-    
+
 }
